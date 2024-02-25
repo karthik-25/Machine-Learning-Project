@@ -1,4 +1,4 @@
-# Udacity Machine Learning Course Final Project
+# Machine Learning Course (Udacity) Final Project
 
 <h3>Enron dataset - Using Machine Learning to identify persons of interest in Enron scandal</h3>
 
